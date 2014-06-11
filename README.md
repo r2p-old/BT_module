@@ -1,2 +1,2 @@
-BT_module
-=========
+template_module
+===============
